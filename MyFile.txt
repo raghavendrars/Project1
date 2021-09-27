@@ -1,2 +1,4 @@
 This this my file
 This is feature2 line 
+This this my feature1 change
+added feature1
