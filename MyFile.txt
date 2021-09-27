@@ -1,1 +1,2 @@
-This this my file 
+This this my file
+This is feature2 line 
